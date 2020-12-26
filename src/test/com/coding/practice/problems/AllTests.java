@@ -1,8 +1,5 @@
-package test.com.coding.interview.problems;
+package test.com.coding.practice.problems;
 
-import static org.junit.Assert.*;
-
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
 
@@ -11,8 +8,6 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameter;
 import org.junit.runners.Parameterized.Parameters;
-
-import dailycodingpgm.ProductOfAll;
 
 @RunWith(Parameterized.class)
 public class AllTests  {
@@ -31,8 +26,7 @@ public class AllTests  {
 
 	@Test
 	public void test() {
-		int a[] = { 1 , 2, 2 };
-		assertEquals("10 x 0 must be 0", 0  , ProductOfAll.solution1(m1) );
+		
 	}
 
 }
