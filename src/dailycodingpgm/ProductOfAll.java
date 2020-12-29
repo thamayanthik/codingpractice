@@ -10,8 +10,7 @@ public class ProductOfAll {
 			System.out.print(a[i] + " ");
 		
 		System.out.println("]");
-		
-		
+				
 		solution1(a);
 		solution2(a);
 
@@ -56,8 +55,5 @@ public class ProductOfAll {
 		return newArray;
 	}
 
-	public static int solution1() {
-		// TODO Auto-generated method stub
-		return 0;
-	}
+
 }

@@ -50,7 +50,9 @@ public class InsertSort {
 			}
 			
 			a[r + 1] = key;
-			
+			for (int i1 = 0; i1<a.length;i1++) 
+				System.out.print(a[i1] + " ");
+			System.out.println("");
 		}
 			
 		return a;
