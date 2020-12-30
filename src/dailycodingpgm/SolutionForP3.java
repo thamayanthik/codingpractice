@@ -44,5 +44,9 @@ public class SolutionForP3 {
 		
 		
 	}
+	
+	static void serialize(Node node) {
+		
+	}
 
 }
