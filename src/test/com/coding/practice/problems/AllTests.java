@@ -38,5 +38,7 @@ public class AllTests  {
 	public void test() {
 		assertArrayEquals("test", arrayOut, ProductOfAll.solution1(arrayIn));
 	}
+	
+	
 
 }
