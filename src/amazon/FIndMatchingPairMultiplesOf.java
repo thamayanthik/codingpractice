@@ -1,6 +1,6 @@
 package amazon;
 
-public class FIndMatchinPairMultiplesOf {
+public class FIndMatchingPairMultiplesOf {
 	public static void main(String[] str) {
 		int[] time = {30,20,150,100,40,30};
 		// 30 + 150 = 180
